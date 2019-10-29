@@ -13,6 +13,8 @@ const App = () => {
                 <li>Prettier</li>
                 <li>Eslint</li>
                 <li>Babel</li>
+                <li>Autoprefixer</li>
+                <li>Jest &amp; Enzyme</li>
             </ul>
         </div>
     );

@@ -9,3 +9,5 @@ It contains:
 -   Prettier
 -   Eslint
 -   Babel
+-   Autoprefixer
+-   Jest & Enzyme
